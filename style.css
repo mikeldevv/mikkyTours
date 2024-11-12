@@ -1,0 +1,15 @@
+.major, .min {
+    letter-spacing:  1.4rem;
+}
+
+.major {
+    padding-top: 90px;
+}
+.explore-world {
+    letter-spacing: 1.0em;
+  }
+.world {
+    display: block; 
+    letter-spacing: 1.0em; 
+  }
+
